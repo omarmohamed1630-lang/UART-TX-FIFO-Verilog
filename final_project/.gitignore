@@ -1,0 +1,15 @@
+# ModelSim / Questa
+work/
+transcript
+*.wlf
+*.vcd
+*.log
+*.mpf
+*.mti
+*.bak
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
