@@ -1,0 +1,680 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/digital design/labs/lab8
+valu
+Z0 !s110 1788705338
+!i10b 1
+!s100 N1h_6Rbi4C]@;3hSA:3A@2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRI@6Oef[mlN^oXMe6Oz?R1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/digital design/labs/lab9
+Z4 w1788101507
+Z5 8C:/digital design/labs/lab5/sipo_alu.v
+Z6 FC:/digital design/labs/lab5/sipo_alu.v
+!i122 142
+L0 27 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1788705338.000000
+Z9 !s107 C:/digital design/labs/lab5/sipo_alu.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/sipo_alu.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu2
+Z13 !s110 1788705337
+!i10b 1
+!s100 4A65>KoWg]a<18Y]dn1f01
+R1
+Ih_JXPQ9MQcS;ZP[coY5gY2
+R2
+R3
+w1788183234
+8C:/digital design/labs/lab5/alu2.v
+FC:/digital design/labs/lab5/alu2.v
+!i122 132
+L0 1 34
+R7
+r1
+!s85 0
+31
+Z14 !s108 1788705337.000000
+!s107 C:/digital design/labs/lab5/alu2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/alu2.v|
+!i113 1
+R11
+R12
+vFSM
+Z15 !s110 1788911006
+!i10b 1
+!s100 ?NG`l2Q?mFVb2XHUJB7i:0
+R1
+I<dQHY1zidd;NE[2K1LinR1
+R2
+R3
+w1788905812
+8C:/digital design/labs/final_project/fsm.v
+FC:/digital design/labs/final_project/fsm.v
+!i122 781
+L0 1 108
+R7
+r1
+!s85 0
+31
+Z16 !s108 1788911006.000000
+!s107 C:/digital design/labs/final_project/fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/fsm.v|
+!i113 1
+R11
+R12
+n@f@s@m
+vFSM_tb
+R15
+!i10b 1
+!s100 3W7<O^[UI:LihzQBg]M_L2
+R1
+IWnIWIV6c6J4fiR`F1KXiQ0
+R2
+R3
+w1788825736
+8C:/digital design/labs/final_project/fsm_tb.v
+FC:/digital design/labs/final_project/fsm_tb.v
+!i122 782
+L0 3 234
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/fsm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/fsm_tb.v|
+!i113 1
+R11
+R12
+n@f@s@m_tb
+vfull_module
+R13
+!i10b 1
+!s100 dfk5>VRa1`oSHMkQalC4F2
+R1
+I`A?]@h<Tna>7md^1=hdf<3
+R2
+R3
+w1788262722
+8C:/digital design/labs/lab5/full_module.v
+FC:/digital design/labs/lab5/full_module.v
+!i122 133
+L0 1 38
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/digital design/labs/lab5/full_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/full_module.v|
+!i113 1
+R11
+R12
+vfull_module_tb
+R13
+!i10b 1
+!s100 fND:S5;b0?^caHXY??2l[1
+R1
+ILH_SPRfgnGU8?9H3dMYUa3
+R2
+R3
+w1788272230
+8C:/digital design/labs/lab5/full_module_tb.v
+FC:/digital design/labs/lab5/full_module_tb.v
+!i122 134
+L0 1 72
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/digital design/labs/lab5/full_module_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/full_module_tb.v|
+!i113 1
+R11
+R12
+vfullm
+R13
+!i10b 1
+!s100 =j@Q<<BWN<aMOni`GR9V=2
+R1
+IX0nRKVS4AGlhLAQY^2OiO3
+R2
+R3
+w1788189588
+8C:/digital design/labs/lab5/fullm.v
+FC:/digital design/labs/lab5/fullm.v
+!i122 135
+L0 1 63
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/digital design/labs/lab5/fullm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/fullm.v|
+!i113 1
+R11
+R12
+vfullm_tb
+R13
+!i10b 1
+!s100 gzZ`KNn=1X2W6Lh>6[aAM0
+R1
+IghgiG8Q5RNOQie81HaXo12
+R2
+R3
+w1788189811
+8C:/digital design/labs/lab5/fullm_tb.v
+FC:/digital design/labs/lab5/fullm_tb.v
+!i122 136
+L0 1 64
+R7
+r1
+!s85 0
+31
+R14
+!s107 C:/digital design/labs/lab5/fullm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/fullm_tb.v|
+!i113 1
+R11
+R12
+vme_n_s
+Z17 !s110 1788653217
+!i10b 1
+!s100 @kn@ODRan7ho]6BcF7;9G1
+R1
+I9fW6[mKe=OV_QM6QWzH6N2
+R2
+R3
+w1788651611
+8C:/digital design/labs/lab10/me_n_s.v
+FC:/digital design/labs/lab10/me_n_s.v
+!i122 108
+Z18 L0 1 94
+R7
+r1
+!s85 0
+31
+Z19 !s108 1788653217.000000
+!s107 C:/digital design/labs/lab10/me_n_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab10/me_n_s.v|
+!i113 1
+R11
+R12
+vme_n_s_tb
+R17
+!i10b 1
+!s100 Omm^bUbPnnAYn2B9?JDRF1
+R1
+I?Cl9P^;0g[FLkeocFEB3g0
+R2
+R3
+w1788652837
+8C:/digital design/labs/lab10/me_n_s_tb.v
+FC:/digital design/labs/lab10/me_n_s_tb.v
+!i122 109
+Z20 L0 1 76
+R7
+r1
+!s85 0
+31
+R19
+!s107 C:/digital design/labs/lab10/me_n_s_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab10/me_n_s_tb.v|
+!i113 1
+R11
+R12
+vme_o_s
+R17
+!i10b 1
+!s100 Y_`T0DW35KPm<PO>5WGf30
+R1
+I@7M[3PbbP<`FzL5RnLZVE2
+R2
+R3
+w1788652204
+8C:/digital design/labs/lab10/me_o_s.v
+FC:/digital design/labs/lab10/me_o_s.v
+!i122 110
+R18
+R7
+r1
+!s85 0
+31
+R19
+!s107 C:/digital design/labs/lab10/me_o_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab10/me_o_s.v|
+!i113 1
+R11
+R12
+vme_o_s_tb
+R17
+!i10b 1
+!s100 =HhlY9jUHd`K82DRij@jN3
+R1
+I=03RREUT0PSEQ[m;JW]cN3
+R2
+R3
+w1788652850
+8C:/digital design/labs/lab10/me_o_s_tb.v
+FC:/digital design/labs/lab10/me_o_s_tb.v
+!i122 111
+R20
+R7
+r1
+!s85 0
+31
+R19
+!s107 C:/digital design/labs/lab10/me_o_s_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab10/me_o_s_tb.v|
+!i113 1
+R11
+R12
+vmo_n_s
+!s110 1788653216
+!i10b 1
+!s100 QkjJCNDc@3A[1]6Dh:CR@0
+R1
+I3enI1Sf6gOdYmZ908AdHi3
+R2
+R3
+w1788648652
+8C:/digital design/labs/lab9/mo_n_s.v
+FC:/digital design/labs/lab9/mo_n_s.v
+!i122 104
+Z21 L0 1 104
+R7
+r1
+!s85 0
+31
+Z22 !s108 1788653216.000000
+!s107 C:/digital design/labs/lab9/mo_n_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab9/mo_n_s.v|
+!i113 1
+R11
+R12
+vmo_n_s_tb
+R17
+!i10b 1
+!s100 m^R3aFBTXJeWD]JV6H8002
+R1
+IIiah5@7I]5_fTG6QkLfV30
+R2
+R3
+w1788651927
+8C:/digital design/labs/lab9/mo_n_s_tb.v
+FC:/digital design/labs/lab9/mo_n_s_tb.v
+!i122 105
+L0 1 74
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/digital design/labs/lab9/mo_n_s_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab9/mo_n_s_tb.v|
+!i113 1
+R11
+R12
+vmo_o_s
+R17
+!i10b 1
+!s100 9Ml^fiQ?fU:PJbK^czMR>0
+R1
+IQKmeE:SHT>HI?IAiH476<3
+R2
+R3
+w1788652196
+8C:/digital design/labs/lab9/mo_o_s.v
+FC:/digital design/labs/lab9/mo_o_s.v
+!i122 106
+R21
+R7
+r1
+!s85 0
+31
+R19
+!s107 C:/digital design/labs/lab9/mo_o_s.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab9/mo_o_s.v|
+!i113 1
+R11
+R12
+vmo_o_s_tb
+R17
+!i10b 1
+!s100 O3@VL15m968V7]g2FUjok0
+R1
+Ij>Xz904V=8gf?VAIo_a303
+R2
+R3
+w1788653213
+8C:/digital design/labs/lab9/mo_o_s_tb.v
+FC:/digital design/labs/lab9/mo_o_s_tb.v
+!i122 107
+R20
+R7
+r1
+!s85 0
+31
+R19
+!s107 C:/digital design/labs/lab9/mo_o_s_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab9/mo_o_s_tb.v|
+!i113 1
+R11
+R12
+vmux
+R15
+!i10b 1
+!s100 1F6i6zPHZCGX]?0GJEm4m1
+R1
+IW3N=OSIkMf=]@F]i>KBRG1
+R2
+R3
+w1788871908
+8C:/digital design/labs/final_project/mux.v
+FC:/digital design/labs/final_project/mux.v
+!i122 785
+L0 1 28
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/mux.v|
+!i113 1
+R11
+R12
+vparity_bit
+R15
+!i10b 1
+!s100 h61fUGDRnc=bH9J5cg3V^1
+R1
+IUU8zNPcJeGi[]MzV<KP`_1
+R2
+R3
+w1788865584
+8C:/digital design/labs/final_project/parity.v
+FC:/digital design/labs/final_project/parity.v
+!i122 779
+L0 1 37
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/parity.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/parity.v|
+!i113 1
+R11
+R12
+vparity_tb
+R15
+!i10b 1
+!s100 jZSQn`VhoJ]_blcd@F8`l1
+R1
+IOe=KfGUhgBdRA30`oB3OX2
+R2
+R3
+w1788822492
+8C:/digital design/labs/final_project/parity_tb.v
+FC:/digital design/labs/final_project/parity_tb.v
+!i122 780
+L0 3 110
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/parity_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/parity_tb.v|
+!i113 1
+R11
+R12
+vpiso
+R15
+!i10b 1
+!s100 b8S_e_IBPQ13m4WOciaM20
+R1
+I6b2E1;_kKnZSQcJoR^FoX0
+R2
+R3
+w1788911001
+8C:/digital design/labs/final_project/piso.v
+FC:/digital design/labs/final_project/piso.v
+!i122 777
+L0 1 40
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/piso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/piso.v|
+!i113 1
+R11
+R12
+vpiso_tb
+R15
+!i10b 1
+!s100 Z][N7Am^Xdmn=Bmha==?l2
+R1
+ID=TPOaa=k`n@b7cP62gGi0
+R2
+R3
+w1788819922
+8C:/digital design/labs/final_project/piso_tb.v
+FC:/digital design/labs/final_project/piso_tb.v
+!i122 778
+L0 3 114
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/piso_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/piso_tb.v|
+!i113 1
+R11
+R12
+vram
+R0
+!i10b 1
+!s100 3J2N;nFgVh5B6HLHY:n<c0
+R1
+IiicVYmG^P9]cG5fGcaUCQ0
+R2
+R3
+w1788200007
+8C:/digital design/labs/lab5/ram.v
+FC:/digital design/labs/lab5/ram.v
+!i122 138
+Z23 L0 1 39
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/digital design/labs/lab5/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/ram.v|
+!i113 1
+R11
+R12
+vram_piso
+R0
+!i10b 1
+!s100 ^Jd<8>[4=fTUka6`jEAQ;1
+R1
+IEe`h_NZXY[Lb22aU5dGM^1
+R2
+R3
+w1788191772
+8C:/digital design/labs/lab5/ram_piso.v
+FC:/digital design/labs/lab5/ram_piso.v
+!i122 139
+R23
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/digital design/labs/lab5/ram_piso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/ram_piso.v|
+!i113 1
+R11
+R12
+vram_tb
+R0
+!i10b 1
+!s100 A^omnIg]>i[06lno16XUE2
+R1
+IC5bPb9EdTTJRHhiD^JH_l0
+R2
+R3
+w1788252516
+8C:/digital design/labs/lab5/ram_tb.v
+FC:/digital design/labs/lab5/ram_tb.v
+!i122 140
+L0 1 70
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/digital design/labs/lab5/ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/ram_tb.v|
+!i113 1
+R11
+R12
+vsipo
+R0
+!i10b 1
+!s100 0SPk>eR6HnOaYW_OMY=2M3
+R1
+IL=aTOSM^:Z:LLz0KokU7X1
+R2
+R3
+R4
+R5
+R6
+!i122 142
+Z24 L0 1 23
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vsipo2
+R0
+!i10b 1
+!s100 jJb<lM61DEL]f9:fkz1hz0
+R1
+I9HFQ>i_ThhWcW]k[F=J3;2
+R2
+R3
+w1788188825
+8C:/digital design/labs/lab5/sipo2.v
+FC:/digital design/labs/lab5/sipo2.v
+!i122 141
+R24
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/digital design/labs/lab5/sipo2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/lab5/sipo2.v|
+!i113 1
+R11
+R12
+vsipo_alu
+R0
+!i10b 1
+!s100 9j>ol0l[kaNl]BQZl?D9<0
+R1
+I>_nD8D3[04BF>JcJV5kzO1
+R2
+R3
+R4
+R5
+R6
+!i122 142
+L0 63 38
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtx
+R15
+!i10b 1
+!s100 fAmz=T>=7i@Q?iPEZb8W50
+R1
+I?E]OWD>>dRJ5Q2zal^:?@1
+R2
+R3
+w1788877996
+8C:/digital design/labs/final_project/tx.v
+FC:/digital design/labs/final_project/tx.v
+!i122 783
+L0 1 61
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/tx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/tx.v|
+!i113 1
+R11
+R12
+vtx_tb
+R15
+!i10b 1
+!s100 SNe1M=@<AX]bfR2fogSgU0
+R1
+IQcKS4g3Rf<LK8=mjgh;Jg3
+R2
+R3
+w1788910978
+8C:/digital design/labs/final_project/tx_tb.v
+FC:/digital design/labs/final_project/tx_tb.v
+!i122 784
+L0 3 162
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/digital design/labs/final_project/tx_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/digital design/labs/final_project/tx_tb.v|
+!i113 1
+R11
+R12

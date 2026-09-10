@@ -1,0 +1,66 @@
+{C:/digital design/labs/lab5/sipo2.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/sipo2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sipo2
+
+Top level modules:
+	sipo2
+
+} {} {}} {C:/digital design/labs/lab5/ram_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/ram_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_tb
+
+Top level modules:
+	ram_tb
+
+} {} {}} {C:/digital design/labs/lab5/full_module_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/full_module_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_module_tb
+
+Top level modules:
+	full_module_tb
+
+} {} {}} {C:/digital design/labs/lab5/ram_piso.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/ram_piso.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_piso
+
+Top level modules:
+	ram_piso
+
+} {} {}} {C:/digital design/labs/lab5/piso.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/piso.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module piso
+
+Top level modules:
+	piso
+
+} {} {}} {C:/digital design/labs/lab5/ram.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} {C:/digital design/labs/lab5/full_module.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/full_module.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_module
+
+Top level modules:
+	full_module
+
+} {} {}} {C:/digital design/labs/lab5/alu2.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/alu2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu2
+
+Top level modules:
+	alu2
+
+} {} {}} {C:/digital design/labs/lab5/sipo_alu.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab5/sipo_alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sipo
+-- Compiling module alu
+-- Compiling module sipo_alu
+
+Top level modules:
+	sipo_alu
+
+} {} {}}

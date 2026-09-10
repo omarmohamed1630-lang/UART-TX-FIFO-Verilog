@@ -1,0 +1,64 @@
+{C:/digital design/labs/final_project/parity.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/parity.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module parity_bit
+
+Top level modules:
+	parity_bit
+
+} {} {}} {C:/digital design/labs/final_project/tx_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/tx_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tx_tb
+
+Top level modules:
+	tx_tb
+
+} {} {}} {C:/digital design/labs/final_project/parity_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/parity_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module parity_tb
+
+Top level modules:
+	parity_tb
+
+} {} {}} {C:/digital design/labs/final_project/mux.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/digital design/labs/final_project/fsm.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {C:/digital design/labs/final_project/fsm_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/fsm_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FSM_tb
+
+Top level modules:
+	FSM_tb
+
+} {} {}} {C:/digital design/labs/final_project/piso.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/piso.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module piso
+
+Top level modules:
+	piso
+
+} {} {}} {C:/digital design/labs/final_project/piso_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/piso_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module piso_tb
+
+Top level modules:
+	piso_tb
+
+} {} {}} {C:/digital design/labs/final_project/tx.v} {1 {vlog -work work -stats=none {C:/digital design/labs/final_project/tx.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tx
+
+Top level modules:
+	tx
+
+} {} {}}

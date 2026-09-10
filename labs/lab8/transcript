@@ -1,0 +1,636 @@
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.mo_o_s_tb
+# vsim -gui work.mo_o_s_tb 
+# Start time: 01:37:51 on Sep 06,2026
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/clk \
+sim:/mo_o_s_tb/rstn \
+sim:/mo_o_s_tb/in \
+sim:/mo_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 65  IN = 0  OUT = 1
+# T = 70  IN = 1  OUT = 1
+# T = 75  IN = 1  OUT = 0
+# T = 80  IN = 0  OUT = 0
+# T = 90  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+vsim -gui work.mo_n_s_tb
+# End time: 01:39:02 on Sep 06,2026, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 6
+# vsim -gui work.mo_n_s_tb 
+# Start time: 01:39:02 on Sep 06,2026
+# Loading work.mo_n_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/clk \
+sim:/mo_n_s_tb/rstn \
+sim:/mo_n_s_tb/in \
+sim:/mo_n_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 65  IN = 0  OUT = 1
+# T = 70  IN = 1  OUT = 1
+# T = 75  IN = 1  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_n_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 65  IN = 0  OUT = 1
+# T = 70  IN = 1  OUT = 1
+# T = 75  IN = 1  OUT = 0
+# T = 80  IN = 0  OUT = 0
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/S0
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/S1
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/S2
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/S3
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/S4
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/S5
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 65  IN = 0  OUT = 1
+# T = 70  IN = 1  OUT = 1
+# T = 75  IN = 1  OUT = 0
+# T = 80  IN = 0  OUT = 0
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/cs
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/DUT/ns
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 65  IN = 0  OUT = 1
+# T = 70  IN = 1  OUT = 1
+# T = 75  IN = 1  OUT = 0
+# T = 80  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_n_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+vsim -gui work.mo_o_s_tb
+# End time: 01:52:20 on Sep 06,2026, Elapsed time: 0:13:18
+# Errors: 0, Warnings: 1
+# vsim -gui work.mo_o_s_tb 
+# Start time: 01:52:20 on Sep 06,2026
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/clk \
+sim:/mo_o_s_tb/rstn \
+sim:/mo_o_s_tb/in \
+sim:/mo_o_s_tb/out
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# Compile of me_n_s.v was successful.
+# Compile of me_n_s_tb.v was successful.
+# Compile of me_o_s.v was successful.
+# Compile of me_o_s_tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.me_n_s_tb
+# End time: 02:41:19 on Sep 06,2026, Elapsed time: 0:48:59
+# Errors: 0, Warnings: 3
+# vsim -gui work.me_n_s_tb 
+# Start time: 02:41:19 on Sep 06,2026
+# Loading work.me_n_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/me_n_s_tb/clk \
+sim:/me_n_s_tb/rstn \
+sim:/me_n_s_tb/in \
+sim:/me_n_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+vsim -gui work.me_o_s_tb
+# End time: 02:42:42 on Sep 06,2026, Elapsed time: 0:01:23
+# Errors: 0, Warnings: 1
+# vsim -gui work.me_o_s_tb 
+# Start time: 02:42:42 on Sep 06,2026
+# Loading work.me_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/me_o_s_tb/clk \
+sim:/me_o_s_tb/rstn \
+sim:/me_o_s_tb/in \
+sim:/me_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+vsim -gui work.mo_o_s_tb
+# End time: 02:44:10 on Sep 06,2026, Elapsed time: 0:01:28
+# Errors: 0, Warnings: 1
+# vsim -gui work.mo_o_s_tb 
+# Start time: 02:44:10 on Sep 06,2026
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/clk \
+sim:/mo_o_s_tb/rstn \
+sim:/mo_o_s_tb/in \
+sim:/mo_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+run
+vsim -gui work.mo_n_s_tb
+# End time: 02:44:36 on Sep 06,2026, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 1
+# vsim -gui work.mo_n_s_tb 
+# Start time: 02:44:36 on Sep 06,2026
+# Loading work.mo_n_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_n_s_tb/clk \
+sim:/mo_n_s_tb/rstn \
+sim:/mo_n_s_tb/in \
+sim:/mo_n_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+run
+run
+run
+run
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# Compile of me_n_s.v was successful.
+# Compile of me_n_s_tb.v was successful.
+# Compile of me_o_s.v was successful.
+# Compile of me_o_s_tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_n_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+run
+# T = 100  IN = 1  OUT = 1
+# T = 105  IN = 1  OUT = 0
+# T = 110  IN = 0  OUT = 0
+run
+vsim -gui work.mo_o_s_tb
+# End time: 02:45:54 on Sep 06,2026, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 1
+# vsim -gui work.mo_o_s_tb 
+# Start time: 02:45:54 on Sep 06,2026
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/clk \
+sim:/mo_o_s_tb/rstn \
+sim:/mo_o_s_tb/in \
+sim:/mo_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+run
+vsim -gui work.me_o_s_tb
+# End time: 02:47:58 on Sep 06,2026, Elapsed time: 0:02:04
+# Errors: 0, Warnings: 1
+# vsim -gui work.me_o_s_tb 
+# Start time: 02:47:58 on Sep 06,2026
+# Loading work.me_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/me_o_s_tb/clk \
+sim:/me_o_s_tb/rstn \
+sim:/me_o_s_tb/in \
+sim:/me_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+vsim -gui work.mo_o_s_tb
+# End time: 02:48:24 on Sep 06,2026, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 1
+# vsim -gui work.mo_o_s_tb 
+# Start time: 02:48:24 on Sep 06,2026
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/clk \
+sim:/mo_o_s_tb/rstn \
+sim:/mo_o_s_tb/in \
+sim:/mo_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# Compile of me_n_s.v was successful.
+# Compile of me_n_s_tb.v was successful.
+# Compile of me_o_s.v was successful.
+# Compile of me_o_s_tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+run
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/DUT/cs
+add wave -position insertpoint  \
+sim:/mo_o_s_tb/DUT/ns
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# Compile of mo_n_s.v was successful.
+# Compile of mo_n_s_tb.v was successful.
+# Compile of mo_o_s.v was successful.
+# Compile of mo_o_s_tb.v was successful.
+# Compile of me_n_s.v was successful.
+# Compile of me_n_s_tb.v was successful.
+# Compile of me_o_s.v was successful.
+# Compile of me_o_s_tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.mo_o_s_tb
+# Loading work.mo_n_s
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# T = 0  IN = 0  OUT = 0
+# T = 40  IN = 1  OUT = 0
+# T = 80  IN = 0  OUT = 0
+run
+# T = 100  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# T = 140  IN = 1  OUT = 0
+# T = 150  IN = 1  OUT = 1
+# T = 160  IN = 0  OUT = 1
+# T = 180  IN = 1  OUT = 1
+# T = 190  IN = 1  OUT = 0
+run
+# T = 200  IN = 0  OUT = 0
+# T = 220  IN = 1  OUT = 0
+# T = 240  IN = 0  OUT = 0
+run
+run
+run
+vsim -gui work.me_o_s_tb
+# End time: 02:53:37 on Sep 06,2026, Elapsed time: 0:05:13
+# Errors: 0, Warnings: 1
+# vsim -gui work.me_o_s_tb 
+# Start time: 02:53:38 on Sep 06,2026
+# Loading work.me_o_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/me_o_s_tb/clk \
+sim:/me_o_s_tb/rstn \
+sim:/me_o_s_tb/in \
+sim:/me_o_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+run
+vsim -gui work.me_n_s_tb
+# End time: 02:55:46 on Sep 06,2026, Elapsed time: 0:02:08
+# Errors: 0, Warnings: 1
+# vsim -gui work.me_n_s_tb 
+# Start time: 02:55:46 on Sep 06,2026
+# Loading work.me_n_s_tb
+# Loading work.mo_n_s
+add wave -position insertpoint  \
+sim:/me_n_s_tb/clk \
+sim:/me_n_s_tb/rstn \
+sim:/me_n_s_tb/in \
+sim:/me_n_s_tb/out
+run
+# T = 0  IN = 0  OUT = 0
+# T = 20  IN = 1  OUT = 0
+# T = 40  IN = 0  OUT = 0
+# T = 50  IN = 1  OUT = 0
+# T = 60  IN = 0  OUT = 0
+# T = 70  IN = 1  OUT = 0
+# T = 75  IN = 1  OUT = 1
+# T = 80  IN = 0  OUT = 1
+# T = 90  IN = 1  OUT = 1
+# T = 95  IN = 1  OUT = 0
+run
+# T = 100  IN = 0  OUT = 0
+# T = 110  IN = 1  OUT = 0
+# T = 120  IN = 0  OUT = 0
+# End time: 02:56:56 on Sep 06,2026, Elapsed time: 0:01:10
+# Errors: 0, Warnings: 1

@@ -1,0 +1,50 @@
+{C:/digital design/labs/lab8/wrapper_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/wrapper_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapper_tb
+
+Top level modules:
+	wrapper_tb
+
+} {} {}} {C:/digital design/labs/lab8/4bit_edge_counter.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/4bit_edge_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module edge_counter
+
+Top level modules:
+	edge_counter
+
+} {} {}} {C:/digital design/labs/lab8/moore_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/moore_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module moore_tb
+
+Top level modules:
+	moore_tb
+
+} {} {}} {C:/digital design/labs/lab8/wrapper.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapper
+
+Top level modules:
+	wrapper
+
+} {} {}} {C:/digital design/labs/lab8/bin_hex.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/bin_hex.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bin_hex
+
+Top level modules:
+	bin_hex
+
+} {} {}} {C:/digital design/labs/lab8/counter_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/counter_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}} {C:/digital design/labs/lab8/mealy_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab8/mealy_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mealy_tb
+
+Top level modules:
+	mealy_tb
+
+} {} {}}

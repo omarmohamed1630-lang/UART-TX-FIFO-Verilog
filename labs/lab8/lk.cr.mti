@@ -1,0 +1,29 @@
+{C:/digital design/labs/lab9/mo_o_s_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab9/mo_o_s_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mo_n_s_tb
+
+Top level modules:
+	mo_n_s_tb
+
+} {} {}} {C:/digital design/labs/lab9/mo_n_s.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab9/mo_n_s.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mo_n_s
+
+Top level modules:
+	mo_n_s
+
+} {} {}} {C:/digital design/labs/lab9/mo_o_s.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab9/mo_o_s.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mo_o_s
+
+Top level modules:
+	mo_o_s
+
+} {} {}} {C:/digital design/labs/lab9/mo_n_s_tb.v} {1 {vlog -work work -stats=none {C:/digital design/labs/lab9/mo_n_s_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mo_n_s_tb
+
+Top level modules:
+	mo_n_s_tb
+
+} {} {}}
